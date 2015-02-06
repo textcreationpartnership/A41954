@@ -115,20 +115,21 @@
    <text xml:lang="unk">
       <body>
          <div type="song">
-            <pb facs="tcp:100938:0001" rendition="simple:additions"/>
+            <pb facs="tcp:100938:1" rendition="simple:additions"/>
             <!-- PDF PAGE 7 -->
             <head>Great YORK and Albany: OR THE Loyal Welcom to His ROYAL HIGHNESS on His Return from SCOTLAND.</head>
             <opener>To the Tune of, <hi>Hey Boys up go We.</hi>
             </opener>
-            <p>
-               <gap reason="music">
-                  <desc>〈♫〉</desc>
-               </gap>Now now the Zealots all muſt droop, the Synagogues ſhall down, and Truth and Loyalty get up, <gap reason="music">
-                  <desc>〈♫〉</desc>
-               </gap>The Pillars of the Throne, The <hi>Whigs,</hi> (who Loyalty forſook,) ſhall with one Voice agree, <gap reason="music">
-                  <desc>〈♫〉</desc>
-               </gap>To welcome home the Mighty Duke of <hi>YORK</hi> and <hi>ALBANY.</hi>
-            </p>
+            <lg n="1">
+            <l><gap reason="music"><desc>〈♫〉</desc></gap> Now now the Zealots all muſt droop,</l>
+            <l><gap reason="music"><desc>〈♫〉</desc></gap> the Synagogues ſhall down,</l>
+            <l><gap reason="music"><desc>〈♫〉</desc></gap>  and Truth and Loyalty get up,</l>
+            <l><gap reason="music"><desc>〈♫〉</desc></gap> The Pillars of the Throne, </l>
+            <l><gap reason="music"><desc>〈♫〉</desc></gap> The <hi>Whigs,</hi> (who Loyalty forſook,)</l>
+            <l><gap reason="music"><desc>〈♫〉</desc></gap> ſhall with one Voice agree, </l>
+            <l><gap reason="music"><desc>〈♫〉</desc></gap> To welcome home the Mighty Duke</l>
+            <l><gap reason="music"><desc>〈♫〉</desc></gap> of <hi>YORK</hi> and <hi>ALBANY.</hi></l>
+            </lg>
             <lg n="2">
                <head>[2]</head>
                <l>Behold with what a Glorious Train</l>
